@@ -15,7 +15,7 @@
 ### Steps to Run Locally
 1. Clone the repository:
    ```bash
-   cd https://github.com/devp128/custom-event-calender.git
+   cd https://github.com/devp128/Custom_Event_Calender.git
    ```
 2. Navigate to the project directory:
    ```bash
